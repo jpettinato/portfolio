@@ -157,6 +157,38 @@ section h2 {
 }
 
 /* =============================================
+   Skills
+   ============================================= */
+.skill-group {
+  margin-bottom: 1.75rem;
+}
+
+.category-label {
+  font-size: 0.7rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-accent);
+  margin-bottom: 0.6rem;
+}
+
+.skill-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.tag {
+  background-color: var(--color-surface);
+  color: var(--color-text);
+  font-size: 0.85rem;
+  padding: 0.35rem 0.75rem;
+  border-radius: 4px;
+  border: 1px solid #2a2d30;
+}
+
+
+/* =============================================
    Contact
    ============================================= */
 #contact {
