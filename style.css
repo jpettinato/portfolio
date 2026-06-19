@@ -7,7 +7,7 @@
   --color-surface:      #141618;
   --color-accent:       #38bdf8;
   --color-text:         #e8eaed;
-  --color-text-muted:   #6b7280;
+  --color-text-muted:   #9ca3af;
 
   --font-heading: 'Exo 2', system-ui, sans-serif;
   --font-body:    'Inter', system-ui, sans-serif;
@@ -140,7 +140,7 @@ nav a {
 
 .btn-primary {
   background-color: var(--color-accent);
-  color: #fff;
+  color: #0a0b0d;
 }
 
 .btn-secondary {
